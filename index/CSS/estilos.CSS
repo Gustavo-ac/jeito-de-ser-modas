@@ -1,0 +1,26 @@
+body {
+    background-image:url(https://cdn.wallpapersafari.com/10/75/eF5QbK.png);
+    font-family:  Garamond Bold Italic;
+    background-size: auto 100vh;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: none;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a {
+    text-decoration: none;
+    color:whitesmoke;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+     text-align: center;
